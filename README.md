@@ -1,2 +1,2 @@
 # Fibbonaci-series
-sim[ple fibbonaci series program
+simple fibbonaci series program
